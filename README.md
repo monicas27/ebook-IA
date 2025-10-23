@@ -33,7 +33,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um eBook sobre o tema de computação em nuvem, o eBook é nicho cloud e o subnicho é compreendendo os conceitos de cloud, o título deve ser curto e que tenha uma dinâmica do jogo Minecraft. Me liste 5 variações de títulos.                                                      |
-| conteúdo |Faça um texto para e-book, o foco é para computação em nuvem, trazendo a introdução da computação em nuvem, com exemplos baseados em um mundo como Minecraft{Regras} Explique sempre de maneira simples. Deixe o texto enxuto no livro, não coloque o nome Minecraft, para fazer a alusão, o nome do mundo é CLAUDCRAF. Sempre traga exemplos em contexto do mundo Claudcraft, sempre deixe um texto sugestivo por tópico.|
+| conteúdo |Faça um texto para e-book, o foco é para computação em nuvem, trazendo a introdução da computação em nuvem, com exemplos baseados em um mundo como Minecraft{Regras} Explique sempre de maneira simples. Deixe o texto enxuto no livro, não coloque o nome Minecraft, para fazer a alusão, o nome do mundo é CLOUDCRAF. Sempre traga exemplos em contexto do mundo Claudcraft, sempre deixe um texto sugestivo por tópico.|
 
 
 Copilot： 
