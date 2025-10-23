@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1200" src="assets/figuras_cloudcraft.png" alt="Figura CloudCraft">
+  <img width="1000" src="assets/figuras_cloudcraft.png" alt="Figura CloudCraft">
 </p>
 
 
