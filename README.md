@@ -7,7 +7,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:**: Este repositório foi desenvolvido durante o curso de Fundamentos de IA Generativa.
+ > ℹ️ **NOTE:** Este repositório foi desenvolvido durante o curso de Fundamentos de IA Generativa.
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
